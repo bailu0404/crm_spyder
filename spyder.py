@@ -14,3 +14,4 @@ file.write(data)
 file.close()
 
 print(data)
+aeiowuj
