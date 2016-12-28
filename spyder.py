@@ -20,6 +20,7 @@ except urllib.error.HTTPError as e:
 except urllib.error.URLError as e:
     print("Caught YOU TOO")
     print(e.reason)
+    
 '''
 file = open("trial.html", "wb")
 file.write(data)
